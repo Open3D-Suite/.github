@@ -3,7 +3,7 @@
 Free, open-source tools for 3D artists who use 3ds Max. No accounts, no licence keys, no cloud: install
 them and use them.
 
-**Get them with the [Open3D Launcher](https://github.com/Open3D-Suite/Open3D/releases/latest)**: it installs,
+**Get them with the [Open3D Launcher](https://github.com/Open3D-Suite/Open3D-Launcher/releases/latest)**: it installs,
 updates and removes every app, on Windows 10 and 11.
 
 ## The apps
