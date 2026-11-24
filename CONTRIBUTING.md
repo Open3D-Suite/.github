@@ -17,15 +17,18 @@ read its guides before you start.
 
 ## A new app
 
-New apps start from the Open3D-SDK template, with a name agreed with the maintainers first (Open + a name).
-The maintainers make its repository in this organization. Before it enters the launcher, they review its
-code and its security and test it as a user would. See
+New apps start from the Open3D-SDK template, with a name agreed with the other members first (Open + a
+name). Its author makes its repository in this organization and runs it. It enters the launcher through
+a pull request to [Open3D-Launcher](https://github.com/Open3D-Suite/Open3D-Launcher) that another member
+approves after reviewing its code and its security and testing it as a user would; GitHub then signs the
+launcher's catalog. See
 [Start a new app](https://github.com/Open3D-Suite/Open3D-SDK/blob/main/docs/start-a-new-app.md).
 
 ## Releases
 
-A release is made from `main` as a draft; the maintainers publish it, and the launcher then offers it to
-everyone. See [Distribution](https://github.com/Open3D-Suite/Open3D-SDK/blob/main/docs/distribution.md).
+A release is made from `main` as a draft, and the app's author publishes it once it has been tested as a
+user would; the launcher then offers it to everyone. See
+[Distribution](https://github.com/Open3D-Suite/Open3D-SDK/blob/main/docs/distribution.md).
 
 ## Security
 
