@@ -7,7 +7,7 @@ read its guides before you start.
 ## A change to an app
 
 - Work on a branch and open a pull request to `main`. CI runs the app's `tools\check.ps1` on it; once it
-  passes, a maintainer reviews it and merges it.
+  passes, the app's author reviews it and merges it.
 - Everything in the repository is in English: code, comments, commits, documents.
 - Small commits, each one sentence in the imperative ("Make the drop-down remember its choice").
 - A bug that is fixed comes with a test that fails without the fix; new logic comes with its tests.
