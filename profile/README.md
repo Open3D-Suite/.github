@@ -15,7 +15,7 @@ Programs of their own:
 | [OpenView](https://github.com/Open3D-Suite/OpenView) | 360 panoramas and photos at full resolution |
 | [OpenRef](https://github.com/Open3D-Suite/OpenRef) | Reference-image boards that float over your work |
 | [OpenFarm](https://github.com/Open3D-Suite/OpenFarm) | A render farm for your own computers |
-| [OpenGaussian](https://github.com/Open3D-Suite/OpenGaussian) | 3D Gaussian Splatting: train, view and edit |
+| [OpenLibrary](https://github.com/Open3D-Suite/OpenLibrary) | Your 3D library, dragged into 3ds Max |
 
 Plug-ins for 3ds Max:
 
